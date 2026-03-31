@@ -1,4 +1,4 @@
-
+package uc5;
 public class uc5 {
     public static void main(String[] args) {
         String[] lines = {
